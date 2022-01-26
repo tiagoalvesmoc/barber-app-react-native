@@ -1,0 +1,8 @@
+#268596  btn color 
+ height 60
+ borderradiu 30
+
+ text 
+ fontsie 18
+ color #FFF
+ 
